@@ -1,0 +1,16 @@
+.toolbar {
+  height: 96px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+
+  & button {
+    height: 48px;
+    width: 120px;
+    margin-right: 2rem;
+    background-color: darkslategrey;
+    border: 1px solid black;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+}
