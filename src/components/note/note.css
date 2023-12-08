@@ -1,0 +1,8 @@
+.note {
+  height: 10rem;
+  width: 10rem;
+  background-color: black;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}

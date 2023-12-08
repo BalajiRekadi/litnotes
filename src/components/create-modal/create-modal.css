@@ -1,0 +1,27 @@
+.form {
+  height: 70vh;
+  width: 70vw;
+  margin: auto;
+  border-radius: 10px;
+  background-color: cadetblue;
+
+  & textarea {
+    width: -webkit-fill-available;
+    height: 85%;
+    border-radius: 10px;
+    margin: 1px;
+    padding: 16px;
+    font-size: 16px;
+  }
+
+  & button {
+    height: 48px;
+    width: 120px;
+    margin-left: 40%;
+    background-color: darkslategrey;
+    border: 1px solid black;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+}

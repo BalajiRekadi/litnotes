@@ -10,3 +10,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+#modal {
+  position: fixed;
+  top: 20%;
+  left: 15%;
+}
